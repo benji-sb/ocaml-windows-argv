@@ -1,0 +1,6 @@
+(executable
+ (name hello)
+ (foreign_stubs
+  (language c)
+  (names main))
+)
